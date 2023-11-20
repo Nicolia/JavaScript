@@ -1,3 +1,8 @@
+/*
+This is a
+if and else
+functions
+*/
 
 let age = 18;
 
